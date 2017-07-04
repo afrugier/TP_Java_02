@@ -4,13 +4,13 @@ import java.util.Scanner;
 
 public class OperateursApp {
 	public static void main(String[] args) {
-		System.out.println("***** Application Opérateurs *****");
+		System.out.println("***** Application OpÃ©rateurs *****");
 		
-		System.out.println("Veuillez saisir le premier nombre…");
+		System.out.println("Veuillez saisir le premier nombreâ€¦");
 		Scanner questionUser = new Scanner(System.in) ;
 		int N1 = questionUser.nextInt() ;
 		
-		System.out.println("Veuillez saisir le second nombre…");
+		System.out.println("Veuillez saisir le second nombreâ€¦");
 		Scanner questionUser2 = new Scanner(System.in) ;
 		int N2 = questionUser2.nextInt() ;
 
